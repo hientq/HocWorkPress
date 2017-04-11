@@ -1,0 +1,11 @@
+1. Cai wordpress : down tu trang chu .org
+2. Cai plugin woocommerce
+3. cài giao diện storefront
+4. cài plugin wordpress importer để import data mẫu
+
+5. xử lý kích thước ảnh :
+ - pts
+ - plugin + chỉnh trong woocommerce :Regenerate Thumbnails
+ 
+6. tạo trang mới
+    shortcode
