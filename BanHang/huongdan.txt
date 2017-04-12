@@ -9,3 +9,14 @@
  
 6. tạo trang mới
     shortcode
+
+    
+woocommerce kit : thêm các tùy chọn up sản phẩm
+
+Flat Rate per State/Country/Region for WooCommerce
+
+Table Rate Shipping 
+
+https://thachpham.com/series/hoc-woocommerce
+https://thachpham.com/series/wordpress-nang-cao
+https://thachpham.com/wordpress/wordpress-tutorials/serie-hoc-wordpress-co-ban.html
